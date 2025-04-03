@@ -1,8 +1,5 @@
 # vault-wordpress-packer-project
 
-
-
-markdown
 # 🔐 Secrets Management with Vault & WordPress Setup using Packer and Vagrant
 
 This project demonstrates how to use **HashiCorp Vault** for secrets management by setting up two virtual machines using **Packer** and **Vagrant** on a Mac M1.
